@@ -1,6 +1,7 @@
 html {
   font-size: 10px;
-  background: url(kit.jpg) bottom center;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(kit.jpg) bottom center;
   background-size: cover;
 }
 
